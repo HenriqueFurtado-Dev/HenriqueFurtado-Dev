@@ -6,9 +6,13 @@
 - 🔥  Estou estudando FRONTEND (HTML, CSS, JS e BOOTSTRAP)
 - 🚀 Atualmente faço a criação de sites com melhor CMOS, o WORDPRESS.
 - 🛸 Trabalho como programador na agência THINKBEYOND a melhor do universo
-- 🌙 Sou fundador da agência MOON, junto com minha namorada.
+- 🌙 Sou fundador da agência MOON, junto com minha namorada. nossos projetos:
+  -   📖 Eticeteras (Plataforma de livros)
+  -   🧊 Deep (Blog desmistificando e ensinando sobre a Deep Web)
+  -   💻 ProgramaAção (Plataforma de ensino)
 - 📫 Quer falar comigo ou ajudar em um projeto? carloshenrique.furtado@hotmail.com 
 - 🇺🇸 I study English every day, so if you speak English too, let's talk
+
 
 
 <div align="center">
@@ -24,6 +28,8 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
+  
+ 
 
   ##
 
