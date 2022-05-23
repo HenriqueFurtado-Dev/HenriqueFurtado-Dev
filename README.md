@@ -3,10 +3,10 @@
 
 
 - 🎒 Atualmente estudo na Universidade Federal do ABC (UFABC)
-- 🔥  Estou estudando FRONTEND (HTML, CSS, JS e BOOTSTRAP)
-- 🚀 Atualmente faço a criação de sites com melhor CMOS, o WORDPRESS.
-- 🛸 Trabalho como programador na agência THINKBEYOND a melhor do universo
-- 🌙 Sou fundador da agência MOON, junto com minha namorada. nossos projetos:
+- 🔥 Estudando FRONTEND (HTML, CSS, JS e BOOTSTRAP)
+- 🚀 Criação de sites com melhor CMS do mundo, o WORDPRESS.
+- 🛸 Programador na agência THINKBEYOND a melhor do universo
+- 🌙 Fundador da agência MOON, junto com minha namorada. nossos projetos:
   -   📖 Eticeteras (Plataforma de livros)
   -   🧊 Deep (Blog desmistificando e ensinando sobre a Deep Web)
   -   💻 ProgramaAção (Plataforma de ensino)
