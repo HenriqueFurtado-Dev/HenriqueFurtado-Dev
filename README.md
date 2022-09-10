@@ -1,19 +1,13 @@
-### Olá 👋 Eu sou o Henrique ;) é um prazer ter você aqui no meu perfil!
+### Olá 👋 é um prazer ter você aqui ;)
 
 
-
-- 🎒 Atualmente estudo na Universidade Federal do ABC (UFABC)
-- 🔥 Estudando FRONTEND (HTML, CSS, JS e BOOTSTRAP)
+- 🎒 Cursando Ciência e Tecnologia na UFABC
+- 🔥 Estudando FRONTEND 
 - 🚀 Criação de sites com melhor CMS do mundo, o WORDPRESS.
-- 🛸 Programador na agência THINKBEYOND a melhor do universo
-- 🌙 Fundador da agência MOON, junto com minha namorada. nossos projetos:
-  -   📖 Eticeteras (Plataforma de livros)
-  -   🧊 Deep (Blog desmistificando e ensinando sobre a Deep Web)
-  -   💻 ProgramaAção (Plataforma de ensino)
+- 🛸 Desenvolvedor na THINKBEYOND 
+- 🌙 Fundador da agência MOON: https://agenciamoon.digital/
 - 📫 Quer falar comigo ou ajudar em um projeto? carloshenrique.furtado@hotmail.com 
-- 🇺🇸 I study English every day, so if you speak English too, let's talk
-
-
+- 🇺🇸 We also do projects in English! let's have a coffee
 
 <div align="center">
   <a href="https://github.com/HenriqueFurtado-Dev">
