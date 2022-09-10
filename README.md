@@ -3,7 +3,7 @@
 
 - 🎒 Cursando Ciência e Tecnologia na UFABC
 - 🔥 Estudando FRONTEND 
-- 🚀 Criação de sites com melhor CMS do mundo, o WORDPRESS.
+- 🚀 Especialista em WORDPRESS.
 - 🛸 Desenvolvedor na THINKBEYOND 
 - 🌙 Fundador da agência MOON: https://agenciamoon.digital/
 - 📫 Quer falar comigo ou ajudar em um projeto? carloshenrique.furtado@hotmail.com 
