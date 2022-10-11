@@ -1,5 +1,13 @@
 ### Olá 👋 é um prazer ter você aqui ;)
 
+<div>
+    <img align="right" width="48%" alt="Octocat" src="https://github.com/HenriqueFurtado-Dev/HenriqueFurtado-Dev/blob/main/henrique-dev-octo.png" />
+    <blockquote>
+    Me chamo Carlos Henrique, sou desenvolvedor Web! e aqui pelo meu GITHUB você pode dar uma olhada melhor no meu trabalho.
+    </blockquote>
+</div>
+
+<br>
 
 - 🎒 Cursando Ciência e Tecnologia na UFABC
 - 🔥 Estudando FRONTEND 
@@ -11,7 +19,10 @@
 - 💜 Perfil Rocketseat: https://app.rocketseat.com.br/me/henrique-furtado-dev
 - 🇺🇸 We also do projects in English! let's have a coffee
 
-<div align="center">
+---
+<br>
+<h3 align="left"> 🛠️ Informações da conta:</h3>
+<div  width="100%" align="center">
   <a href="https://github.com/HenriqueFurtado-Dev">
   <img width="48%"  height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFurtado-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="48%"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFurtado-Dev&layout=compact&langs_count=7&theme=dracula"/>
