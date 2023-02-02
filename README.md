@@ -15,8 +15,6 @@
 - 🛸 Desenvolvedor na THINKBEYOND 
 - 🌙 Fundador da agência MOON: https://agenciamoon.digital/
 - 📫 Quer falar comigo ou ajudar em um projeto? carloshenrique.furtado@hotmail.com 
-- 🎓 Estudante da XPE
-- 💜 Perfil Rocketseat: https://app.rocketseat.com.br/me/henrique-furtado-dev
 - 🇺🇸 We also do projects in English! let's have a coffee
 
 ---
