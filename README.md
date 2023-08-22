@@ -24,10 +24,8 @@
 
 ![HenriqueFurtado-Dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFurtado-Dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![HenriqueFurtado-Dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HenriqueFurtado-Dev&theme=vue-dark&hide_border=true)
+![HenriqueFurtado-Dev's Stats](https://github-readme-stats.vercel.app/api?username=HenriqueFurtado-Dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<div  width="100%" align="center">
- ![HenriqueFurtado-Dev's Stats](https://github-readme-stats.vercel.app/api?username=HenriqueFurtado-Dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-</div>
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
