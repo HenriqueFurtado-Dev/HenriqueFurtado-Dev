@@ -9,7 +9,7 @@
 
 <br>
 
-- 🎒 Cursando Ciência e Tecnologia na UFABC
+- 🎒 Cursando Análise e desenvolvimento de sistemas - FIAP
 - 🔥 Estudando FRONTEND 
 - 🚀 Especialista em WORDPRESS.
 - 🛸 Desenvolvedor na THINKBEYOND 
