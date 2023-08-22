@@ -20,10 +20,13 @@
 ---
 <br>
 <h3 align="left"> 🛠️ Informações da conta:</h3>
+
+
+![HenriqueFurtado-Dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFurtado-Dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![HenriqueFurtado-Dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HenriqueFurtado-Dev&theme=vue-dark&hide_border=true)
+
 <div  width="100%" align="center">
-  <a href="https://github.com/HenriqueFurtado-Dev">
-  <img width="48%"  height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFurtado-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="48%"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFurtado-Dev&layout=compact&langs_count=7&theme=dracula"/>
+ ![HenriqueFurtado-Dev's Stats](https://github-readme-stats.vercel.app/api?username=HenriqueFurtado-Dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 </div>
 
  <div style="display: inline_block"><br>
