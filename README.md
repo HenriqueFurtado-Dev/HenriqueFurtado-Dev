@@ -1,9 +1,9 @@
-### Olá 👋 é um prazer ter você aqui ;)
+### Olá 👋 seja bem-vindo ;)
 
 <div>
     <img align="right" width="48%" alt="Octocat" src="https://github.com/HenriqueFurtado-Dev/HenriqueFurtado-Dev/blob/main/henrique-dev-octo.png" />
     <blockquote>
-    Me chamo Carlos Henrique, sou desenvolvedor Web! e aqui pelo meu GITHUB você pode dar uma olhada melhor no meu trabalho.
+    Eu sou o Henrique Furtado dev Web, e aqui está um pouco dos meus projetos, fique a vontade para vasculhar por ai ;)
     </blockquote>
 </div>
 
@@ -13,7 +13,6 @@
 - 🔥 Estudando FRONTEND 
 - 🚀 Especialista em WORDPRESS.
 - 🛸 Desenvolvedor na THINKBEYOND 
-- 🌙 Fundador da agência MOON: https://agenciamoon.digital/
 - 📫 Quer falar comigo ou ajudar em um projeto? carloshenrique.furtado@hotmail.com 
 - 🇺🇸 We also do projects in English! let's have a coffee
 
