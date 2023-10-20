@@ -1,7 +1,6 @@
 ### Olá 👋 seja bem-vindo ;)
 
 <div>
-    <img align="right" width="48%" alt="Octocat" src="https://github.com/HenriqueFurtado-Dev/HenriqueFurtado-Dev/blob/main/henrique-dev-octo.png" />
     <blockquote>
     Eu sou o Henrique Furtado dev Web, e aqui está um pouco dos meus projetos, fique a vontade para vasculhar por ai ;)
     </blockquote>
