@@ -42,9 +42,11 @@ My name is Carlos Henrique, and here on my Github are a little bit of everything
 
 
 <h3 align="left"> 🛠️ Um pouco de estatística:</h3>
+<div>
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueFurtado-Dev&theme=dark&mode=weekly" />
+  <img width=40% align="center" src="https://github-readme-stats-lime-chi.vercel.app/api/top-langs/?username=HenriqueFurtado-Dev&show_icons=true&theme=dark&layout=compact" />
+</div>
 
 
 
-![HenriqueFurtado-Dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HenriqueFurtado-Dev&theme=vue-dark&hide_border=true)
-![HenriqueFurtado-Dev's Stats](https://github-readme-stats.vercel.app/api?username=HenriqueFurtado-Dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
