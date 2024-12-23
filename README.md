@@ -1,52 +1,46 @@
 <div style="display: inline_block"><br>
-<img align="center" alt="Henrique-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Henrique-html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-<img align="center" alt="Henrique-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-    
-<img align="center" alt="Henrique-html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-<img align="center" alt="Henrique-html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
+<img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Henrique-Numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+<img align="center" alt="Henrique-ScikitLearn" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
+<img align="center" alt="Henrique-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+<img align="center" alt="Henrique-NextJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
 
-<img align="center" alt="Henrique-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-<img align="center" alt="Henrique-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-<img align="center" alt="Henrique-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+<img align="center" alt="Henrique-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+<img align="center" alt="Henrique-Oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
 
-<img align="center" alt="Henrique-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Henrique-py" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
-<img align="center" alt="Henrique-py" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
 
-<img align="center" alt="Henrique-py" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+
+<img align="center" alt="Henrique-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div>
-
-###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EE29&center=true&vCenter=true&random=false&width=435&lines=Hello+Dev!+Welcome+to+my+Github;I+am+a+Windows+Systems+Administrator;I+am+a+Linux+Systems+Administrator)](https://git.io/typing-svg)
-
-<div>
-    <blockquote>
-       Here are some of my projects, feel free to poke around
-    </blockquote>
-</div>
-
-### 👋 let's have a coffee
-
-Prazer me chamo Carlos Henrique, e aqui no meu Github estão um pouco de tudo aquilo que estou aprendendo nos últimos anos, atualmente me dedicando a parte de análise de dados e Backend, mas aqui tem de tudo um pouco.
 
 ---
 
-My name is Carlos Henrique, and here on my Github are a little bit of everything I've been learning in recent years, currently dedicating myself to data analysis and Backend, but here's a little bit of everything.
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EE29&center=true&vCenter=true&width=435&lines=Olá,+Dev!+Bem-vindo+ao+meu+Github;Sou+Administrador+de+Sistemas+Windows+e+Linux)](https://git.io/typing-svg)
 
-- 🎒 Analysis and systems development - FIAP 
-- 🔥 Linux and Windows Systems Administrator
-- 🚀 Focused on backend and data analysis
-- 📫 Quer falar comigo? <a href="mailto:carloshenrique.furtado@hotmail.com"> Vamos tomar um café </a>
+<blockquote>
+Aqui estão alguns dos meus projetos, sinta-se à vontade para explorar!
+</blockquote>
 
 ---
 
+### ☕ Vamos tomar um café?
 
-<h3 align="left"> 🛠️ Um pouco de estatística:</h3>
-<div>
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueFurtado-Dev&theme=dark&mode=weekly" />
-  <img width=40% align="center" src="https://github-readme-stats-lime-chi.vercel.app/api/top-langs/?username=HenriqueFurtado-Dev&show_icons=true&theme=dark&layout=compact" />
+Prazer, me chamo **Carlos Henrique**, e por aqui compartilho um pouco de tudo o que venho colocando em prática nos últimos anos. Atualmente, focado à análise de dados e ML.
+
+- 🎒 **Análise e Desenvolvimento de Sistemas** - FIAP
+- 🔥 **Análista de Dados - Insert Seguros**
+- 🚀 **Análise de Dados e Automação de processos**
+- 📫 Quer falar comigo? [Vamos conversar!](mailto:carloshenrique.furtado@hotmail.com)
+
+---
+
+<h3 align="left">🛠️ Estatísticas:</h3>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<img alt="HenriqueFurtado-Dev's Stats" src="https://github-readme-stats.vercel.app/api?username=HenriqueFurtado-Dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 45%; height: auto; margin-right: 20px;">
+
+<img alt="HenriqueFurtado-Dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFurtado-Dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="width: 34%; height: auto;">
+
 </div>
 
-
-
-
+---
